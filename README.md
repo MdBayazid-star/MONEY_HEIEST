@@ -4,18 +4,18 @@ This project was bootstrapped with [Money Heist](https://zen-jennings-5f4d61.net
 
 ## How Do You Know From This Website ???
 
-** Money Heist (Spanish: La casa de papel, "The House of Paper") is a Spanish heist crime drama television series created by Álex Pina.
+* Money Heist (Spanish: La casa de papel, "The House of Paper") is a Spanish heist crime drama television series created by Álex Pina.
 
-** The series traces two long-prepared heists led by the Professor (Álvaro Morte), one on the Royal Mint of Spain, and one on the Bank of Spain, told from the perspective of one of the robbers, Tokyo (Úrsula Corberó)
+* The series traces two long-prepared heists led by the Professor (Álvaro Morte), one on the Royal Mint of Spain, and one on the Bank of Spain, told from the perspective of one of the robbers, Tokyo (Úrsula Corberó)
 
-** The series received several awards including the International Emmy Award for Best Drama Series at the 46th International Emmy Awards, as well as critical acclaim for its sophisticated plot, interpersonal dramas, direction, and for trying to innovate Spanish television
+* The series received several awards including the International Emmy Award for Best Drama Series at the 46th International Emmy Awards, as well as critical acclaim for its sophisticated plot, interpersonal dramas, direction, and for trying to innovate Spanish television
 
 
 ## What Do You Do IN This Website ???
 
-** Sing UP For Free
+* Sing UP For Free
 
-** Floow All Charecter
+* Floow All Charecter
 
 ## To Know About Devoloper
 
