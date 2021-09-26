@@ -62,18 +62,20 @@ const Cart = () => {
             </div>
             <div className="col-lg-3 col-md-12 col-12">
               <div className="cartDesing p-3 shadow-lg rounded">
-                <h3 className="text-center">
-                  <span className="text-danger">Total Cheacter:</span>
-                  {"  "}
-                  {cart.length}
-                </h3>
-                <h3 className="text-center">
-                  <span className="text-danger">Total Salary:</span>
-                  {"  "}
-                  {totalSalary}
-                </h3>
+                <div className="py-3">
+                  <h3 className="text-center">
+                    <span className="text-danger">Total Cheacter:</span>
+                    {"  "}
+                    {cart.length}
+                  </h3>
+                  <h3 className="text-center">
+                    <span className="text-danger">Total Salary:</span>
+                    {"  "}
+                    {totalSalary}
+                  </h3>
+                </div>
 
-                <div className="mt-5">
+                <div>
                   {cart.map((cart) => (
                     <Aside
                       cart={cart}
