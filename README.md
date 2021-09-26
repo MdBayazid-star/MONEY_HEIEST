@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Money Heist](https://zen-jennings-5f4d61.netlify.app/).
 
-## How Do You Know From This Website ???
+## What Do You Know From This Website ???
 
 * Money Heist (Spanish: La casa de papel, "The House of Paper") is a Spanish heist crime drama television series created by Álex Pina.
 
