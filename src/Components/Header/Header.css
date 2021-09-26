@@ -1,0 +1,11 @@
+.Header {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+.headerLogo {
+  height: 40px;
+}
+.nav-link:hover,
+.nav-link.active,
+.nav-link:focus {
+  color: #b42736 !important;
+}
