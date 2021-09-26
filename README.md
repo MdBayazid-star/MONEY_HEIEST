@@ -15,7 +15,7 @@ The project Live Link was  [Money Heist](https://zen-jennings-5f4d61.netlify.app
 
 * Sing UP For Free
 
-* Floow All Charecter
+* Follow Charecter
 
 ## `To Know About Devoloper`
 
