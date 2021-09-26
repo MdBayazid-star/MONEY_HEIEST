@@ -1,6 +1,6 @@
 # `Getting Started with Money Heist`
 
-This project was bootstrapped with [Money Heist](https://zen-jennings-5f4d61.netlify.app/).
+The project Live Link was  [Money Heist](https://zen-jennings-5f4d61.netlify.app/).
 
 ## `What Do You Know From This Website ???`
 
